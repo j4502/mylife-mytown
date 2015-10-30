@@ -19,9 +19,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
 <header>
-  <h4>ABOUT</h4>
-  <h2>My Life, My Town</h2>
-  <align = "left"><h4>SEARCH</h4></align>
+  <align="left"><h4>ABOUT</h4></align>
+  <align="center"><h2>My Life, My Town</h2></align>
+  <align="right"><h4>SEARCH</h4></align>
   <img src="http://placehold.it/350x60" align="center">
 </header>
 
