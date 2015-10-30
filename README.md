@@ -5,3 +5,4 @@ Ashton Day
 <p>Anna Maikova</p>
 <p>Brianna Schroer</p>
 <p>Micheala Sosby</p>
+<p>Caty Eisterhold</p>
