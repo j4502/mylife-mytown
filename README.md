@@ -14,17 +14,11 @@
   <li><a href="contact.asp">Search</a></li>
 </ul>
 </header>
-
-
 <body>
-  
   <h3>Visit a Town</h3>
   <img src="http://placehold.it/350x150">
   <h6>A slice of life</h6>
   <p>My Life, My Town documents a slice of time in the lives of teenagers from small Missouri towns. Click a location tab on the map above to view the stories of each town's youth.</p>
 </body>
-
-<footer>&copy;2012 
-Brought to you by KBIA and the Columbia Missourian.
-</footer>
+<footer> &copy;2012 Brought to you by KBIA and the Columbia Missourian </footer>
 </html>
