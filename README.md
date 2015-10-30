@@ -1,4 +1,6 @@
-# mylife-mytown
+<!DOCTYPE html>
+
+mylife-mytown
 <p><b>Team Members</b></p>
 <p>Ashton Day</p>
 <p>Shivia Hardiman</p>
@@ -8,7 +10,7 @@
 <p>Micheala Sosby</p>
 <p>Caty Eisterhold</p>
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Home</title>
