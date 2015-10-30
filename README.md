@@ -8,6 +8,7 @@
 <p>Micheala Sosby</p>
 <p>Caty Eisterhold</p>
 
+<!DOCTYPE html>
 <html>
 <head>
   <title>Home</title>
