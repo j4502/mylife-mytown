@@ -8,7 +8,25 @@
 <p>Micheala Sosby</p>
 <p>Caty Eisterhold</p>
 
----
+<!DOCTYPE html>
+​
+<html>
+<head>
+  <title>A basic page</title>
+  <meta charset="utf-8">
+  <meta name="author" content="Rob Weir">
+  <meta name="description" content="Sample project for J4502">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+​
+<body>
+  <h1>Header goes here</h1>
+  <p>paragraphs go here</p>
+  <!--This is a comment! It won't show up in the page, just in your source code.-->
+</body>
+​
+​
+</html>
 
 <head>
 <body>
