@@ -14,7 +14,7 @@
 <head>
   <title>A basic page</title>
   <meta charset="utf-8">
-  <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, ">
+  <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, Ashton Day ">
   <meta name="description" content="My Life, My Town J4502">
   <meta name="viewport" content="width=device-width, initial-scale=1">
  </head>
