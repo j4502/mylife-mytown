@@ -10,7 +10,7 @@
 
 <html>
 <head>
-  <title>A basic page</title>
+  <title>Home</title>
   <meta charset="utf-8">
   <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, Ashton Day, Shivia Hardiman, Anna Maikova">
   <meta name="description" content="My Life, My Town J4502">
