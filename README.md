@@ -22,6 +22,8 @@
 <body>
   <h1>My Life, My Town</h1>
   <h3>Visit a Town</h3>
+  <img src="http://placehold.it/350x150">
+  
   <p>paragraphs go here</p>
   <!--This is a comment! It won't show up in the page, just in your source code.-->
 </body>
