@@ -40,4 +40,6 @@
 
 <body>
 <title>
-<footer>
+<footer>&copy;2012 
+Brought to you by KBIA and the Columbia Missourian.
+</footer>
