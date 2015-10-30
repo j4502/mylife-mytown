@@ -23,8 +23,8 @@
   <h6>A slice of life</h6>
   <p>My Life, My Town documents a slice of time in the lives of teenagers from small Missouri towns. Click a location tab on the map above to view the stories of each town's youth.</p>
 </body>
-</html>
 
 <footer>&copy;2012 
 Brought to you by KBIA and the Columbia Missourian.
 </footer>
+</html>
