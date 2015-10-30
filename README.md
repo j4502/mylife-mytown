@@ -22,7 +22,7 @@
   <h4>ABOUT</h4>
   <h2>My Life, My Town</h2>
   <h4>SEARCH</h4>
-  <img src="http://placehold.it/350x150">
+  <img src="http://placehold.it/350x60" align="center">
 </header>
 
 
