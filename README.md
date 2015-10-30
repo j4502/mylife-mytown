@@ -17,9 +17,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <header>  
 <ul>
-  <li><a href="default.asp"><div style="text-align:left;">About</a></div style></li>
-  <li><a href="news.asp"><div style="text-align:center;">My Life My Town</a></div style></li>
-  <li><a href="contact.asp"><div style="text-align:right;">Search</a></div style></li>
+  <li><a href="default.asp">About</a></li>
+  <li><a href="news.asp">My Life My Town</a></li>
+  <li><a href="contact.asp">Search</a></li>
 </ul>
 </header>
 
