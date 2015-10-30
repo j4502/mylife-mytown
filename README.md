@@ -12,7 +12,7 @@
 ​
 <html>
 <head>
-  <title>My Life My Town</title>
+  <title>A basic page</title>
   <meta charset="utf-8">
   <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, Ashton Day, Shivia Hardiman, Anna Maikova">
   <meta name="description" content="My Life, My Town J4502">
@@ -20,7 +20,8 @@
  </head>
 ​
 <body>
-  <h1>Header goes here</h1>
+  <h1>My Life, My Town</h1>
+  <h3>Visit a Town</h3>
   <p>paragraphs go here</p>
   <!--This is a comment! It won't show up in the page, just in your source code.-->
 </body>
@@ -28,7 +29,6 @@
 ​
 </html>
 
-<head>
 <body>
 <title>
 <footer>
