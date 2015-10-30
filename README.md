@@ -17,10 +17,14 @@
   <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, Ashton Day, Shivia Hardiman, Anna Maikova">
   <meta name="description" content="My Life, My Town J4502">
   <meta name="viewport" content="width=device-width, initial-scale=1">
- </head>
-​
-<body>
+  <h4>ABOUT</h4>
   <h1>My Life, My Town</h1>
+*/place for placeholder*
+ </head>
+
+
+<body>
+  
   <h3>Visit a Town</h3>
   <img src="http://placehold.it/350x150">
   <h6>A slice of life</h6>
