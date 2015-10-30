@@ -1,6 +1,6 @@
 # mylife-mytown
 Ashton Day
-Shivia Hardiman
+<p>Shivia Hardiman</p>
 <p>Lauren Rutherford</p>
 <p>Anna Maikova</p>
 <p>Brianna Schroer</p>
