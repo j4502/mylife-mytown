@@ -14,8 +14,8 @@
 <head>
   <title>A basic page</title>
   <meta charset="utf-8">
-  <meta name="author" content="Rob Weir">
-  <meta name="description" content="Sample project for J4502">
+  <meta name="author" content="Lauren Rutherford">
+  <meta name="description" content="My Life, My Town J4502">
   <meta name="viewport" content="width=device-width, initial-scale=1">
  </head>
 ​
