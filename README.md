@@ -8,8 +8,6 @@
 <p>Micheala Sosby</p>
 <p>Caty Eisterhold</p>
 
-<!DOCTYPE html>
-​
 <html>
 <head>
   <title>A basic page</title>
@@ -32,7 +30,6 @@
   <img src="http://placehold.it/350x150">
   <h6>A slice of life</h6>
   <p>My Life, My Town documents a slice of time in the lives of teenagers from small Missouri towns. Click a location tab on the map above to view the stories of each town's youth.</p>
-  <!--This is a comment! It won't show up in the page, just in your source code.-->
 </body>
 </html>
 
