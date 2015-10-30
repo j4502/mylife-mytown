@@ -12,32 +12,24 @@
 ​
 <html>
 <head>
-  <title>A basic page</title>
+  <title>My Life My Town</title>
   <meta charset="utf-8">
   <meta name="author" content="Lauren Rutherford, Micheala Sosby, Brianna Schroer, Caty Eisterhold, Ashton Day, Shivia Hardiman, Anna Maikova">
   <meta name="description" content="My Life, My Town J4502">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-<header>
-  <align="left"><h4>ABOUT</h4></align>
-  <align="center"><h2>My Life, My Town</h2></align>
-  <align="right"><h4>SEARCH</h4></align>
-  <img src="http://placehold.it/350x60" align="center">
-</header>
-
-
+ </head>
+​
 <body>
-  
-  <h3>Visit a Town</h3>
-  <img src="http://placehold.it/350x150">
-  <h6>A slice of life</h6>
-  <p>My Life, My Town documents a slice of time in the lives of teenagers from small Missouri towns. Click a location tab on the map above to view the stories of each town's youth.</p>
+  <h1>Header goes here</h1>
+  <p>paragraphs go here</p>
   <!--This is a comment! It won't show up in the page, just in your source code.-->
 </body>
-​
-​
+
 </html>
 
+<head>
 <body>
 <title>
-<footer>
+<footer>&copy;2012 
+Brought to you by KBIA and the Columbia Missourian.
+</footer>
