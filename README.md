@@ -21,7 +21,7 @@
 <header>
   <h4>ABOUT</h4>
   <h2>My Life, My Town</h2>
-  <h4>SEARCH</h4>
+  <align = "left"/><h4>SEARCH</h4></align>
   <img src="http://placehold.it/350x60" align="center">
 </header>
 
