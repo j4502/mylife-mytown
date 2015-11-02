@@ -3,3 +3,4 @@
 <p><b>Team Members</b></p>
 <p>Lauren Rutherford</p>
 <p>Anna Maikova</p>
+<p>Brianna Schroer</p>
