@@ -5,3 +5,4 @@
 <p>Anna Maikova</p>
 <p>Brianna Schroer</p>
 <p>Ashton Day</p>
+<p>Micheala Sosby</p>
