@@ -6,3 +6,4 @@
 <p>Brianna Schroer</p>
 <p>Ashton Day</p>
 <p>Micheala Sosby</p>
+<p>Caty Eisterhold</p>
