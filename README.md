@@ -7,3 +7,4 @@
 <p>Ashton Day</p>
 <p>Micheala Sosby</p>
 <p>Caty Eisterhold</p>
+<p>Shivia Hardiman</p>
