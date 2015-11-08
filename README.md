@@ -7,6 +7,7 @@
 # mylife-mytown
 Ashton Day
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p>Shivia Hardiman</p>
 =======
 <h1>My Life My Town</h1>
@@ -32,3 +33,8 @@ Shivia Hardiman
 <p>Shivia Hardiman</p>
 >>>>>>> origin/develop
 >>>>>>> Stashed changes
+=======
+Lauren Rutherford
+Shivia Hardiman
+Caty Eisterhold
+>>>>>>> master
