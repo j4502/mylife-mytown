@@ -1,40 +1,16 @@
-<<<<<<< Updated upstream
-<h1>My Life My Town</h1>
+# My Life My Town
 
-<p><b>Team Members</b></p>
-=======
-<<<<<<< HEAD
-# mylife-mytown
-Ashton Day
-<<<<<<< HEAD
-<<<<<<< HEAD
-<p>Shivia Hardiman</p>
-=======
-<h1>My Life My Town</h1>
+**Team Members**
 
-<p><b>Team Members</b></p>
->>>>>>> origin/develop
->>>>>>> Stashed changes
-<p>Lauren Rutherford</p>
-<p>Anna Maikova</p>
-<p>Brianna Schroer</p>
-<p>Ashton Day</p>
-<p>Micheala Sosby</p>
-<p>Caty Eisterhold</p>
-<<<<<<< Updated upstream
-<p>Shivia Hardiman</p>
-=======
-<<<<<<< HEAD
-=======
-Lauren Rutherford
-Shivia Hardiman
->>>>>>> master
-=======
-<p>Shivia Hardiman</p>
->>>>>>> origin/develop
->>>>>>> Stashed changes
-=======
-Lauren Rutherford
-Shivia Hardiman
-Caty Eisterhold
->>>>>>> master
+- Ashton Day
+- Caty Eisterhold
+- Shivia Hardiman
+- Anna Maikova
+- Lauren Rutherford
+- Brianna Schroer
+- Micheala Sosby
+
+
+## Github Site
+
+http://j4502.github.io/mylife-mytown/
