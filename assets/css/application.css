@@ -15,12 +15,12 @@ nav{
   float: left;
   list-style: none;
 
-  #mainhead {
+#mainhead {
   padding-left: 40px;
   padding-right: 40px;
   }
 
-  #map {
+#map {
   padding-left: 40px;
   padding-right: 40px;
   }
