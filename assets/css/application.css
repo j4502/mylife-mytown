@@ -14,3 +14,13 @@ nav{
 .primary-nav li {
   float: left;
   list-style: none;
+
+  #mainhead {
+  padding-left: 40px;
+  padding-right: 40px;
+  }
+
+  #map {
+  padding-left: 40px;
+  padding-right: 40px;
+  }
