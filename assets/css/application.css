@@ -5,3 +5,12 @@ nav{
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
+.primary-nav {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.primary-nav li {
+  float: left;
+  list-style: none;
