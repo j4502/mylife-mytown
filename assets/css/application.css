@@ -44,14 +44,19 @@ a:visited {
 .producer-name{
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-style: bold 700;
+  font-style: bold;
 }
-
 
 .Subject-name {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
-  font-style: light 300;
+  font-style: light;
+}
+
+.town-name{
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-style: bold;
 }
 
 /*
