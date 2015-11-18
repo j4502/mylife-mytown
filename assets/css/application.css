@@ -44,19 +44,19 @@ a:visited {
 .producer-name{
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-style: bold;
+  font-weight: bold;
 }
 
 .Subject-name {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
-  font-style: light;
+  font-weight: lighter;
 }
 
 .town-name{
   color: #000000;
   font-family: 'Open Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
 }
 
 /*
@@ -81,6 +81,7 @@ nav{
   float: left;
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .primary-nav {
@@ -91,6 +92,11 @@ nav{
 .primary-nav li {
   float: left;
   list-style: none;
+}
+
+.mylife-mytown-nav{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
 }
 
 /*
