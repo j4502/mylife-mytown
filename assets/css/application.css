@@ -92,3 +92,8 @@ nav{
   margin-left: auto;
   margin-right: auto;
 }
+
+.body-type {
+  padding-left: 40px;
+  padding-right: 40px
+}
