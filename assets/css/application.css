@@ -44,13 +44,13 @@ a:visited {
 .producer-name{
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: bold;
+  font-weight: lighter;
 }
 
-.Subject-name {
+.subject-name {
   color: #000000;
   font-family: 'Open Sans', sans-serif;
-  font-weight: lighter;
+  font-weight: bold;
 }
 
 .town-name{
