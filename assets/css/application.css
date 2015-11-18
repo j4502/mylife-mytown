@@ -24,6 +24,14 @@ p{
   font-family: 'Playfair Display', serif;
 }
 
+a {
+    color: #587F6A;
+}
+
+a:visited {
+    color: #587F6A;
+}
+
 img,
 iframe,
 video,
