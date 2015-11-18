@@ -5,6 +5,15 @@ ul {
   padding: 0;
 }
 
+body {
+  background: #f6f5f0;
+}
+
+h1,
+h2, {
+  color: #587f6a;
+}
+
 img,
 iframe,
 video,
