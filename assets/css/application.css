@@ -41,11 +41,17 @@ a:visited {
     color: #32483C;
 }
 
-.producer-name,
-.Subject-name {
+.producer-name{
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-style: bold;
+  font-style: bold 700;
+}
+
+
+.Subject-name {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-style: light 300;
 }
 
 /*
