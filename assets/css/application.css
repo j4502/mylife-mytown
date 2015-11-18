@@ -15,10 +15,6 @@ ul {
 	Typography
 ---------------------------------------------------------------- */
 
-body {
-  background: #f6f5f0;
-}
-
 h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -76,6 +72,10 @@ svg {
 ----------------------------------------------------------------
 	Navigation
 ---------------------------------------------------------------- */
+
+header{
+  background: #f6f5f0;
+}
 
 nav{
   float: left;
