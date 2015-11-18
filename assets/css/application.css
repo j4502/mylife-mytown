@@ -1,4 +1,64 @@
 @import "bootstrap.min.css";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700,400|Playfair+Display:400,400italic,700,700italic);
+
+/*
+----------------------------------------------------------------
+	Resets
+---------------------------------------------------------------- */
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+----------------------------------------------------------------
+	Media
+---------------------------------------------------------------- */
+
+body {
+  background: #f6f5f0;
+}
+
+h1 {
+  color: #587F6A;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #587F6A;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p{
+  font-family: 'Playfair Display', serif;
+}
+
+a {
+    color: #587F6A;
+}
+
+a:visited {
+    color: #32483C;
+}
+
+/*
+----------------------------------------------------------------
+	Media
+---------------------------------------------------------------- */
+
+img,
+iframe,
+video,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+/*
+----------------------------------------------------------------
+	Navigation
+---------------------------------------------------------------- */
 
 nav{
   float: left;
@@ -14,18 +74,15 @@ nav{
 .primary-nav li {
   float: left;
   list-style: none;
-
-.container-fluid {
-  padding-left: 400px;
-  padding-right: 400px;
 }
 
-#mainhead {
-  padding-left: 40px;
-  padding-right: 40px;
-  }
+/*
+----------------------------------------------------------------
+	Grid
+---------------------------------------------------------------- */
 
-#map {
-  padding-left: 40px;
-  padding-right: 40px;
-  }
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
