@@ -1,6 +1,5 @@
 @import "bootstrap.min.css";
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700,400|Playfair+Display:400,400italic,700,700italic);
-
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300,600|Playfair+Display:400,400italic|Open+Sans+Condensed:300,700);
 /*
 ----------------------------------------------------------------
 	Resets
@@ -13,16 +12,12 @@ ul {
 
 /*
 ----------------------------------------------------------------
-	Media
+	Typography
 ---------------------------------------------------------------- */
-
-body {
-  background: #f6f5f0;
-}
 
 h1 {
   color: #587F6A;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h2 {
@@ -40,6 +35,24 @@ a {
 
 a:visited {
     color: #32483C;
+}
+
+.producer-name{
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: lighter;
+}
+
+.subject-name {
+  color: #000000;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.town-name{
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
 }
 
 /*
@@ -60,10 +73,15 @@ svg {
 	Navigation
 ---------------------------------------------------------------- */
 
+header{
+  background: #f6f5f0;
+}
+
 nav{
   float: left;
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .primary-nav {
@@ -76,6 +94,16 @@ nav{
   list-style: none;
 }
 
+.mylife-mytown-nav{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
+
+footer{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: lighter;
+}
+
 /*
 ----------------------------------------------------------------
 	Grid
@@ -85,4 +113,9 @@ nav{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.body-type {
+  padding-left: 10px;
+  padding-right: 10px
 }
