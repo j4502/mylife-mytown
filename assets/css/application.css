@@ -87,7 +87,7 @@ nav{
 .primary-nav {
   padding-top: 20px;
   padding-bottom: 20px;
-  width: 100%; 
+  width: 100%;
 }
 
 .primary-nav li {
@@ -95,9 +95,10 @@ nav{
   list-style: none;
 }
 
-.mylife-mytown-nav{
+#mylife-mytown-nav{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
+  color: #587F6A;
 }
 
 footer{
