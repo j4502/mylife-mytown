@@ -97,11 +97,13 @@ nav{
   padding-top: 20px;
   padding-bottom: 20px;
   width: 100%;
+  align-items: center;
 }
 
 .primary-nav li {
   float: left;
   list-style: none;
+  text-align: center;
 }
 
 #mylife-mytown-nav{
