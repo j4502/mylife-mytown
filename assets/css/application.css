@@ -15,7 +15,10 @@ ul {
 ----------------------------------------------------------------
 	Typography
 ---------------------------------------------------------------- */
-
+#story-page-producer-name{
+  padding-top: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -25,11 +28,14 @@ h1 {
 h2 {
   color: #587F6A;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 p{
   font-family: 'Playfair Display', serif;
-  text-align: center;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 a {
@@ -107,6 +113,8 @@ nav{
 footer{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
+  text-align: center;
+  padding-top: 20px;
 }
 
 /*
