@@ -90,7 +90,7 @@ h3.text-over-picture {
 }
 
 h5.text-over-picture {
-   position: absolute;
+   position: relative;
    top: 800px;
    left: 0;
    width: 100%;
