@@ -82,6 +82,12 @@ h1.text-over-picture {
    width: 100%;
 }
 
+h3.text-over-picture {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
 /*
 ----------------------------------------------------------------
 	Media
