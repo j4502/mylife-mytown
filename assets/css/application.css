@@ -74,10 +74,10 @@ a:visited {
   text-align: center;
 }
 
-h4 {
+h2 span {
    position: absolute;
    top: 200px;
-   left: 0; 
+   left: 0;
    width: 100%;
 }
 
