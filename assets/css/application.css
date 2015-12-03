@@ -74,6 +74,13 @@ a:visited {
   text-align: center;
 }
 
+h4 {
+   position: absolute;
+   top: 200px;
+   left: 0; 
+   width: 100%;
+}
+
 /*
 ----------------------------------------------------------------
 	Media
