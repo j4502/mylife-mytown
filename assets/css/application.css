@@ -71,6 +71,7 @@ a:visited {
 .text-over-picture{
   color: #FFFFFF;
   font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
   text-align: center;
 }
 
