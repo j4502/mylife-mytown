@@ -46,18 +46,17 @@ h3 {
 h4 {
   color:#000000;
   font-family:'Open Sans Condensed', sans-serif;
-<<<<<<< Updated upstream
-<<<<<<< HEAD
+
   text-align:left;
   padding-top: 40px;
   padding-bottom: 10px;
-=======
+
   text-align:center;
-=======
+
   text-align:left;
->>>>>>> Stashed changes
+
   padding-top: 60px;
->>>>>>> FETCH_HEAD
+
 }
 
 h6 {
