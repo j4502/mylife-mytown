@@ -76,6 +76,7 @@ a:visited {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
+  text-align: center;
 }
 
 .subject-name {
