@@ -8,38 +8,25 @@
 ul {
   margin: 0;
   padding: 0;
-  list-style-type: none;
 }
 
 /*
 ----------------------------------------------------------------
 	Typography
 ---------------------------------------------------------------- */
-#story-page-producer-name{
-  padding-top: 20px;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
+
 h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
-  text-align: center;
 }
 
 h2 {
   color: #587F6A;
   font-family: 'Open Sans', sans-serif;
-  text-align: center;
-}
-
-h3 {
-  color: #587F6A;
 }
 
 p{
   font-family: 'Playfair Display', serif;
-  text-align: justify;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 a {
@@ -68,33 +55,6 @@ a:visited {
   font-weight: bold;
 }
 
-.text-over-picture{
-  color: #FFFFFF;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: bold;
-  text-align: center;
-}
-
-h1.text-over-picture {
-   position: absolute;
-   top: 200px;
-   left: 0;
-   width: 100%;
-}
-
-h3.text-over-picture {
-   position: absolute;
-   top: 800px;
-   left: 0;
-   width: 100%;
-}
-
-h5.text-over-picture {
-   position: absolute;
-   top: 800px;
-   left: 0;
-   width: 100%;
-}
 /*
 ----------------------------------------------------------------
 	Media
@@ -128,13 +88,11 @@ nav{
   padding-top: 20px;
   padding-bottom: 20px;
   width: 100%;
-  align-items: center;
 }
 
 .primary-nav li {
   float: left;
   list-style: none;
-  text-align: center;
 }
 
 #mylife-mytown-nav{
@@ -146,8 +104,6 @@ nav{
 footer{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
-  text-align: center;
-  padding-top: 20px;
 }
 
 /*
