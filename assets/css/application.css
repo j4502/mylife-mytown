@@ -103,11 +103,26 @@ a:visited {
 
 }
 
-.text-over-picture{
+.hero-section {
+    background-image: url('/mylife-mytown/assets/images/nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headline {
+    color: #FFFFFF;
+}
+
+.text-over-picture {
+  background-color: #587F69;
   color: #FFFFFF;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
   text-align: center;
+}
+
+.text-over-picture .subhead {
+    color: #FFFFFF;
 }
 
 h1.text-over-picture {
@@ -116,13 +131,6 @@ h1.text-over-picture {
    left: 0;
    width: 100%;
    font-size: 50pt;
-}
-
-h3.text-over-picture {
-   position: absolute;
-   top: 770px;
-   left: 0;
-   width: 100%;
 }
 
 h5.text-over-picture {
