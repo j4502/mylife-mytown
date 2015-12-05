@@ -132,20 +132,7 @@ a:visited {
     text-decoration: none;
 }
 
-h1.text-over-picture {
-   position: absolute;
-   top: 150px;
-   left: 0;
-   width: 100%;
-   font-size: 50pt;
-}
 
-h5.text-over-picture {
-   position: absolute;
-   top: 810px;
-   left: 0;
-   width: 100%;
-}
 /*
 ----------------------------------------------------------------
 	Media
@@ -201,6 +188,18 @@ footer{
   padding-top: 20px;
 }
 
+.journalist-name{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #587F6A;
+  font-size: 15pt;
+  font-weight: bold;
+  text-align: left;
+}
+
+.journalist-description{
+  text-align: left;
+}
+
 /*
 ----------------------------------------------------------------
 	Grid
@@ -219,4 +218,8 @@ footer{
 
 .container-spacing{
   padding-top: 40px;
+}
+
+.journalist-container{
+  padding-top: 20px;
 }
