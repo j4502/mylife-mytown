@@ -132,7 +132,6 @@ a:visited {
     text-decoration: none;
 }
 
-
 /*
 ----------------------------------------------------------------
 	Media
@@ -145,6 +144,17 @@ svg {
     display: block;
     max-width: 100%;
 }
+
+.image-wrapper {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.image-wrapper img {
+  margin: 0px auto;
+}
+
 
 /*
 ----------------------------------------------------------------
