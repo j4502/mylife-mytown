@@ -114,18 +114,22 @@ a:visited {
 
 .headline {
     color: #FFFFFF;
+    padding-bottom: 40px;
 }
 
 .text-over-picture {
   background-color: #587F69;
-  color: #FFFFFF;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: bold;
   text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-decoration: none;
 }
 
-.text-over-picture .subhead {
+.text-over-picture .text {
     color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-decoration: none;
 }
 
 h1.text-over-picture {
