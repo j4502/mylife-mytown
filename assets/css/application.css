@@ -25,7 +25,7 @@ h1 {
   text-align: center;
 
   font-size: 40pt;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 0px;
 
 }
@@ -67,6 +67,15 @@ h6 {
   font-size: 15pt;
 }
 
+h7 {
+  color:#000000;
+  font-family:'Playfair Display', serif;
+  text-align:left;
+  padding-left: 20px;
+  padding-left: 20px;
+  font-size: 15pt;
+}
+
 p{
   font-family: 'Playfair Display', serif;
   text-align: center;
@@ -74,6 +83,7 @@ p{
   padding-right: 20px;
   padding-top: 0px;
 }
+
 
 a {
     color: #587F6A;
