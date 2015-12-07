@@ -124,6 +124,11 @@ a:visited {
     text-decoration: none;
 }
 
+.about-text{
+  text-align: left;
+  margin-left: 20px;
+}
+
 /*
 ----------------------------------------------------------------
 	Media
