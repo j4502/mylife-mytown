@@ -23,7 +23,6 @@ h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
-
   font-size: 40pt;
   padding-top: 20px;
   padding-bottom: 0px;
@@ -45,17 +44,10 @@ h3 {
 h4 {
   color:#000000;
   font-family:'Open Sans Condensed', sans-serif;
-
-  text-align:left;
+  text-align:center;
   padding-top: 40px;
   padding-bottom: 10px;
-
-  text-align:center;
-
-  text-align:left;
-
-  padding-top: 60px;
-
+  padding-top: 40px;
 }
 
 h6 {
@@ -86,6 +78,7 @@ a:visited {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
+  text-align: center;
 }
 
 .subject-name {
