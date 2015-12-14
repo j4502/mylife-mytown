@@ -22,11 +22,28 @@ h1 {
 
 h2 {
   color: #587F6A;
+<<<<<<< HEAD
   font-family: 'Open Sans', sans-serif;
+=======
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  color: #587F6A;
+  font-family: 'Open Sans Condensed',sans-serif;
+  text-align: center;
+>>>>>>> develop
 }
 
 p{
   font-family: 'Playfair Display', serif;
+<<<<<<< HEAD
+=======
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+>>>>>>> develop
 }
 
 a {
@@ -55,6 +72,37 @@ a:visited {
   font-weight: bold;
 }
 
+<<<<<<< HEAD
+=======
+.text-over-picture{
+  color: #FFFFFF;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1.text-over-picture {
+   position: absolute;
+   top: 150px;
+   left: 0;
+   width: 100%;
+   font-size: 50pt;
+}
+
+h3.text-over-picture {
+   position: absolute;
+   top: 800px;
+   left: 0;
+   width: 100%;
+}
+
+h5.text-over-picture {
+   position: absolute;
+   top: 800px;
+   left: 0;
+   width: 100%;
+}
+>>>>>>> develop
 /*
 ----------------------------------------------------------------
 	Media
