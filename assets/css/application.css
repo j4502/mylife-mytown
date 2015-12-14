@@ -8,23 +8,36 @@
 ul {
   margin: 0;
   padding: 0;
+  list-style-type: none;
 }
 
 /*
 ----------------------------------------------------------------
 	Typography
 ---------------------------------------------------------------- */
-
+#story-page-producer-name{
+  padding-top: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+
+  font-size: 40pt;
+  padding-top: 20px;
+  padding-bottom: 0px;
+
 }
 
 h2 {
   color: #587F6A;
 <<<<<<< HEAD
+<<<<<<< HEAD
   font-family: 'Open Sans', sans-serif;
 =======
+=======
+>>>>>>> origin/gh-pages
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
@@ -33,18 +46,63 @@ h3 {
   color: #587F6A;
   font-family: 'Open Sans Condensed',sans-serif;
   text-align: center;
+<<<<<<< HEAD
 >>>>>>> develop
+=======
+}
+
+h4 {
+  color:#000000;
+  font-family:'Open Sans Condensed', sans-serif;
+
+  text-align:left;
+  padding-top: 40px;
+  padding-bottom: 10px;
+
+  text-align:center;
+
+  text-align:left;
+
+  padding-top: 60px;
+
+}
+
+h6 {
+  color:#000000;
+  font-family:'Open Sans Condensed', sans-serif;
+  text-align:center;
+  padding-left: 20px;
+  padding-left: 20px;
+  font-size: 15pt;
+}
+
+h7 {
+  color:#000000;
+  font-family:'Playfair Display', serif;
+  text-align:left;
+  padding-left: 20px;
+  padding-left: 20px;
+  font-size: 15pt;
+>>>>>>> origin/gh-pages
 }
 
 p{
   font-family: 'Playfair Display', serif;
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   text-align: left;
   padding-left: 20px;
   padding-right: 20px;
 >>>>>>> develop
+=======
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+>>>>>>> origin/gh-pages
 }
+
 
 a {
     color: #587F6A;
@@ -64,12 +122,43 @@ a:visited {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
+  text-align:center;
 }
 
 .town-name{
   color: #000000;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
+  font-size: 8pt;
+  padding-top: 20px;
+  text-align: center;
+
+}
+
+.hero-section {
+    background-image: url('/mylife-mytown/assets/images/nature.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.headline {
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+
+.text-over-picture {
+  background-color: #587F69;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+
+.text-over-picture .text {
+    color: #FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-decoration: none;
 }
 
 <<<<<<< HEAD
@@ -116,6 +205,17 @@ svg {
     max-width: 100%;
 }
 
+.image-wrapper {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.image-wrapper img {
+  margin: 0px auto;
+}
+
+
 /*
 ----------------------------------------------------------------
 	Navigation
@@ -136,11 +236,13 @@ nav{
   padding-top: 20px;
   padding-bottom: 20px;
   width: 100%;
+  align-items: center;
 }
 
 .primary-nav li {
   float: left;
   list-style: none;
+  text-align: center;
 }
 
 #mylife-mytown-nav{
@@ -152,6 +254,24 @@ nav{
 footer{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.journalist-name{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #587F6A;
+  font-size: 15pt;
+  font-weight: bold;
+  text-align: left;
+}
+
+.journalist-description{
+  text-align: left;
+}
+
+button{
+  color: #587F6A;
 }
 
 /*
@@ -168,4 +288,12 @@ footer{
 .body-type {
   padding-left: 10px;
   padding-right: 10px
+}
+
+.container-spacing{
+  padding-top: 40px;
+}
+
+.journalist-container{
+  padding-top: 20px;
 }
