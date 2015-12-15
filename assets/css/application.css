@@ -29,6 +29,14 @@ h1 {
 
 }
 
+.headline-padding{
+  color: #587F6A;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 40pt;
+  padding-top: 10px;
+}
+
 h2 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -105,6 +113,10 @@ a:visited {
 
 }
 
+#town-padding{
+  padding-top: 0px;
+}
+
 .hero-section {
     background-image: url('/mylife-mytown/assets/images/nature.jpg');
     background-size: cover;
@@ -152,7 +164,6 @@ svg {
 .image-wrapper {
   text-align: center;
   padding-top: 15px;
-  padding-bottom: 10px;
 }
 
 .image-wrapper img {
