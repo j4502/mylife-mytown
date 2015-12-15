@@ -15,7 +15,7 @@ ul {
 ----------------------------------------------------------------
 	Typography
 ---------------------------------------------------------------- */
-#story-page-producer-name{
+.story-page-producer-name{
   padding-top: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
