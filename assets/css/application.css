@@ -32,6 +32,12 @@ h1 {
 
 h2 {
   color: #587F6A;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  font-family: 'Open Sans', sans-serif;
+=======
+=======
+>>>>>>> origin/gh-pages
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
@@ -40,15 +46,31 @@ h3 {
   color: #587F6A;
   font-family: 'Open Sans Condensed',sans-serif;
   text-align: center;
+<<<<<<< HEAD
+>>>>>>> develop
+=======
 }
 
 h4 {
   color:#000000;
   font-family:'Open Sans Condensed', sans-serif;
+<<<<<<< HEAD
   text-align:center;
   padding-top: 40px;
   padding-bottom: 10px;
   padding-top: 40px;
+=======
+
+  text-align:left;
+  padding-top: 40px;
+  padding-bottom: 10px;
+
+  text-align:center;
+
+  text-align:left;
+
+  padding-top: 60px;
+>>>>>>> parent of 2e41cb8... Fixed command line changes
 
 }
 
@@ -68,13 +90,24 @@ h7 {
   padding-left: 20px;
   padding-left: 20px;
   font-size: 15pt;
+>>>>>>> origin/gh-pages
 }
 
 p{
   font-family: 'Playfair Display', serif;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
   text-align: left;
   padding-left: 20px;
   padding-right: 20px;
+>>>>>>> develop
+=======
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+>>>>>>> origin/gh-pages
 }
 
 
