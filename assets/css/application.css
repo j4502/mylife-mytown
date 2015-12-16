@@ -18,6 +18,7 @@ ul {
 #story-page-producer-name{
   padding-top: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
 }
 h1 {
   color: #587F6A;
@@ -80,6 +81,7 @@ a:visited {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
+  text-align: center; 
 }
 
 .subject-name {
