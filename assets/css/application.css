@@ -15,7 +15,7 @@ ul {
 ----------------------------------------------------------------
 	Typography
 ---------------------------------------------------------------- */
-#story-page-producer-name{
+.story-page-producer-name{
   padding-top: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
@@ -24,11 +24,17 @@ h1 {
   color: #587F6A;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
-
   font-size: 40pt;
   padding-top: 20px;
   padding-bottom: 0px;
+}
 
+.headline-padding{
+  color: #587F6A;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 40pt;
+  padding-top: 10px;
 }
 
 h2 {
@@ -63,9 +69,18 @@ h6 {
 
 p{
   font-family: 'Playfair Display', serif;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+}
+
+.story-body{
+  font-family: 'Playfair Display', serif;
   text-align: left;
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 0px;
 }
 
 
@@ -81,14 +96,14 @@ a:visited {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: lighter;
-  text-align: center; 
+  text-align: center;
 }
 
 .subject-name {
   color: #000000;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
-  text-align:center;
+  text-align: center;
 }
 
 .town-name{
@@ -99,6 +114,10 @@ a:visited {
   padding-top: 20px;
   text-align: center;
 
+}
+
+#town-padding{
+  padding-top: 0px;
 }
 
 .hero-section {
@@ -127,34 +146,11 @@ a:visited {
     text-decoration: none;
 }
 
-.text-over-picture{
-  color: #FFFFFF;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: bold;
-  text-align: center;
+.about-text{
+  text-align: left;
+  margin-left: 20px;
 }
 
-h1.text-over-picture {
-   position: absolute;
-   top: 150px;
-   left: 0;
-   width: 100%;
-   font-size: 50pt;
-}
-
-h3.text-over-picture {
-   position: absolute;
-   top: 800px;
-   left: 0;
-   width: 100%;
-}
-
-h5.text-over-picture {
-   position: absolute;
-   top: 800px;
-   left: 0;
-   width: 100%;
-}
 /*
 ----------------------------------------------------------------
 	Media
@@ -178,6 +174,9 @@ svg {
   margin: 0px auto;
 }
 
+#sponsor{
+  padding-top: 10px;
+}
 
 /*
 ----------------------------------------------------------------
@@ -259,4 +258,5 @@ button{
 
 .journalist-container{
   padding-top: 20px;
+  margin-left: 20px;
 }
